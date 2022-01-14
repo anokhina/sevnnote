@@ -1,0 +1,2 @@
+# sevnnote
+React native application
